@@ -193,9 +193,9 @@ icon_lookup = {
 #variables
 count = 0
 degreesign= u"\xb0"
-Weather_api_token = 'http://api.apixu.com/v1/current.json?key=b9d137cbec0a43fab9d145931182201&q='
-username = "preethamgowda0395@gmail.com"
-password = "123234345"
+Weather_api_token = 'your_api_token'
+username = "your username"
+password = "your password"
 
 
 #mainwindow
